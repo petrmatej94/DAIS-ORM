@@ -1,0 +1,23 @@
+C:\Users\mat0354\Desktop\ORM\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\mat0354\Desktop\ORM\ORM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+C:\Users\mat0354\Desktop\ORM\ORM\ORM\bin\Debug\ORM.exe
+C:\Users\mat0354\Desktop\ORM\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\mat0354\Desktop\ORM\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\mat0354\Desktop\ORM\ORM\ORM\obj\Debug\ORM.pdb
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.exe
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.pdb
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\bin\Debug\ORM.exe.config
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\bin\Debug\ORM.exe
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.FormAbout.resources
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.Database.FormMain.resources
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.csproj.GenerateResource.Cache
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.Forms.FormRidicGrid.resources
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.Templates.FormGrid.resources
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.Forms.AktualizaceRidiceForm.resources
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.Forms.NovyRidicForm.resources
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.Forms.DetailRidiceForm.resources
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.Forms.ZaznamGridForm.resources
+C:\Users\PMate\OneDrive\Plocha\Škola\4. Semestr\DAIS\DAIS projekt\ORM\ORM\obj\Debug\ORM.Forms.VozidlaRidiceGridForm.resources
